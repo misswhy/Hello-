@@ -1,5 +1,5 @@
 # Hello-New-World
-# This is a project to learn how to use github, scala, smv, etc... Will do it step by step :)
+This is a project to learn how to use github, scala, smv, etc... Will do it step by step :)
 
 # Learning Diary
 2016-10-10
