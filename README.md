@@ -10,4 +10,5 @@
 5. Use git clone ssh mode to clone the project onto local laptop
 6. Added another collaborator to the project
 7. Edit read-me files and commit to local repository
+8. Pull out latest changes from github, solve conflict with local changes
 
