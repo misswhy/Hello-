@@ -10,5 +10,6 @@ This is a project to learn how to use github, scala, smv, etc... Will do it step
 5. Use git clone ssh mode to clone the project onto local laptop
 6. Added another collaborator to the project
 7. Edit read-me files and commit to local repository
-8. Pull out latest changes from github, solve conflict with local changes
-
+8. Pull out latest changes from github, solve conflict with local change and merge
+9. Push the latest version to github
+10. Close the issue of setting up git and learning github basic operations.
