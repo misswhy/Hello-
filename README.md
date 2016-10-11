@@ -1,8 +1,8 @@
 # Hello-New-World
 This is a project to learn how to use github, scala, smv, etc... Will do it step by step :)
 
-# Learning Diary
-## 2016-10-10
+## Learning Diary
+### 2016-10-10
 1. Created a new project: Hello-New-World with read-me file
 2. Created an issue to set up git and learn github
 3. Downloaded and installed git on local computer
